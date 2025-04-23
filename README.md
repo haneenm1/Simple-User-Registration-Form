@@ -1,5 +1,3 @@
-# 📄 README
-
 ## 👨‍💻 Project Title: Simple User Registration Form
 
 ## 📝 Description:
